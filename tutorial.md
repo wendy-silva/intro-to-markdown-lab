@@ -1,4 +1,4 @@
-# How to Build the Perfect Sandwhich
+# How to Build the Perfect Sandwich
 
 ***What is a sandwich?***
 
