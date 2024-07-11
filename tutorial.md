@@ -4,7 +4,7 @@
 
 >A sandwich is a dish typically consists of vegetables, sliced cheese, meat, placed in between slices of bread.
 
-![Sandwich](./assets/IMG_7915.jpg)
+![Sandwich](/assets/IMG_7915.jpg)
 >["Grilled Chicken Avocado and Tomato Sandwich."](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwwwhealthnutnutritionca%2F2019%2F04%2F09%2Fgrilled-chicken-avocado-and-tomato-sandwich%2F&psig=AOvVaw38dBKjDV2ZdRq0-n-mwO7M&ust=1720804547941000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCt2vu9n4cDFQAAAAAdAAAAABAy) HealthNut Nutrition. April 9, 2019.
 
 
